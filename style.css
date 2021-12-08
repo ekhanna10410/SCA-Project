@@ -1,0 +1,31 @@
+body
+{
+    font-family: 'Satisfy', cursive;
+    background-color: #bcd4e6;
+    text-align: center;
+}
+
+.header_div
+{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}
+#p
+{
+   font-weight: 200;
+   letter-spacing: 4px;
+   font-size: medium;
+}
+.main_div
+{
+    margin: top 30px;
+    width: 300px;
+}
+#copy_right_footer
+{
+ background-color: aliceblue;
+ color: black;
+ width: max-content;
+ text-align: center;
+}
